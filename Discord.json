@@ -1,0 +1,15 @@
+{
+  "tag_definitions": {
+    "ex1"  : "Example reason tag 1. These tag definitions are for your information or for testing.",
+    "ex2"  : "Example reason tag 2. Tags assigned to an user are stored in a string and separated by spaces.",
+    "ex3"  : "Example reason tag 3. These definitions may be moved to a different file in the future.",
+    "p"    : "If you see this, whether the following reasons are valid or not for this user is not certain.",
+    "scam" : "This user tried to scam people for monetary gain.",
+    "spam" : "This user send messages that can be considered as spam.",
+    "bot"  : "This user is a bot and not a real person.",
+    "alt"  : "This is an alt account and the person behind it has other accounts on the same platform."
+  },
+  "userIDs_and_their_tags": {
+    "0":"p ex1 ex2 ex3"
+  }
+}
