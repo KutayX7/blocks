@@ -1,5 +1,5 @@
 # What is this?
-A public repository that lists some of the most annoying/suspicious/dangerous users that I found on various platforms.
+A public repository that lists some of the most annoying/suspicious/dangerous users that I found on various platforms. It is meant to be used as a blacklist in places I moderate (such as my online games and Discord servers).
 
 # How to appeal?
 Create an issue with the following information:
