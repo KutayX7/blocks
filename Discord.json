@@ -10,6 +10,9 @@
     "alt"  : "This is an alt account and the person behind it has other accounts on the same platform."
   },
   "userIDs_and_their_tags": {
-    "0":"p ex1 ex2 ex3"
+    "0":"p ex1 ex2 ex3",
+    "1400954193765994708": "p scam",
+    "690437743653814323": "scam p bot",
+    "697797088213467156": "spam bot"
   }
 }
